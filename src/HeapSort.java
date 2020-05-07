@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /**
- * 堆排序(需要继续研究)
+ * 堆排序(需要继续研究，哈哈)
  */
 public class HeapSort {
 
