@@ -19,11 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77e5290f-1b4a-4baf-bdbb-ac5a35c03680" name="Default Changelist" comment="" />
+    <list default="true" id="77e5290f-1b4a-4baf-bdbb-ac5a35c03680" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DirectSelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +51,28 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager" selected="Application.DirectSelectionSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BubbleSort" />
+      <module name="arraysort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectSelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DirectSelectionSort" />
+      <module name="arraysort" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DirectSelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -50,7 +83,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588856615110</updated>
-      <workItem from="1588856616265" duration="1224000" />
+      <workItem from="1588856616265" duration="2758000" />
+      <workItem from="1589031611088" duration="2437000" />
     </task>
     <servers />
   </component>
@@ -67,11 +101,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="982" height="139" key="GridCell.Tab.0.bottom" timestamp="1589032992411">
+      <screen x="0" y="23" width="1024" height="691" />
+    </state>
+    <state width="982" height="139" key="GridCell.Tab.0.bottom/0.23.1024.691@0.23.1024.691" timestamp="1589032992411" />
+    <state width="982" height="139" key="GridCell.Tab.0.center" timestamp="1589032992409">
+      <screen x="0" y="23" width="1024" height="691" />
+    </state>
+    <state width="982" height="139" key="GridCell.Tab.0.center/0.23.1024.691@0.23.1024.691" timestamp="1589032992409" />
+    <state width="982" height="139" key="GridCell.Tab.0.left" timestamp="1589032992408">
+      <screen x="0" y="23" width="1024" height="691" />
+    </state>
+    <state width="982" height="139" key="GridCell.Tab.0.left/0.23.1024.691@0.23.1024.691" timestamp="1589032992408" />
+    <state width="982" height="139" key="GridCell.Tab.0.right" timestamp="1589032992410">
+      <screen x="0" y="23" width="1024" height="691" />
+    </state>
+    <state width="982" height="139" key="GridCell.Tab.0.right/0.23.1024.691@0.23.1024.691" timestamp="1589032992410" />
     <state x="537" y="177" key="Vcs.Push.Dialog.v2" timestamp="1588856784080">
       <screen x="0" y="23" width="1920" height="989" />
     </state>
     <state x="537" y="177" key="Vcs.Push.Dialog.v2/0.23.1920.989@0.23.1920.989" timestamp="1588856784080" />
+    <state x="204" y="164" key="git4idea.merge.GitPullDialog" timestamp="1588863576560">
+      <screen x="0" y="23" width="1024" height="693" />
+    </state>
+    <state x="204" y="164" key="git4idea.merge.GitPullDialog/0.23.1024.693@0.23.1024.693" timestamp="1588863576560" />
   </component>
 </project>
